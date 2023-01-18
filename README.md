@@ -30,7 +30,6 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-
 ## To make husky work on (Mac/Linux) you need to run in the root
 
 ```bash
@@ -38,7 +37,3 @@ $ yarn run test:cov
 chmod ug+x .husky/*
 chmod ug+x .git/hooks/*
 ```
-
-## License
-
-BAS24 is [MIT licensed](LICENSE).
